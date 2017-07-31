@@ -45,9 +45,9 @@ if os.path.exists('README.txt'):
     long_description = open('README.txt').read()
 
 setup(
-    name='PyBambooHR',
-    version='0.7.0',
-    url='http://github.com/smeggingsmegger/PyBambooHR',
+    name='PyBambooHR-addepar',
+    version='0.7.1',
+    url='https://github.com/Addepar/PyBambooHR',
     license='MIT',
     author='Scott Blevins',
     author_email='sblevins@gmail.com',
